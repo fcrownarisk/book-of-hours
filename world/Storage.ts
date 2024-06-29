@@ -1,0 +1,3 @@
+localStorage.setItem
+Set;Storage;setInterval
+Storage;setTimeout
