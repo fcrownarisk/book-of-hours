@@ -28,6 +28,6 @@ var Sky_In_Cloud =
    [6][1][2][3][4][5],
 ]
 let speech =
-[[speechSynthesis]['SpeechRecognitionAlternative']['SpeechRecognitionResult']['SpeechRecognitionResultList']['SpeechSynthesisEvent']['speechSynthesis']['addEventListener'],
- ['speechSynthesisUtterance']['SpeechSynthesisUtterance']['SpeechSynthesisEvent']['speechSynthesis']['getVoices']['speak'],
+[[speechSynthesis]['SpeechRecognitionAlternative']['SpeechRecognitionResult']['SpeechRecognitionResultList']['SpeechSynthesisEvent'],
+ ['speechSynthesisUtterance']['SpeechSynthesisUtterance']['SpeechSynthesisEvent']['speechSynthesis']['getVoices']['speak']
 ]
