@@ -1,4 +1,3 @@
-
 export default function keybaord(){
 const qwerty_Keyboard =
 'q | w | e | r | t | y | u | i | o | p'
