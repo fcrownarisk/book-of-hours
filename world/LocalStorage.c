@@ -1,4 +1,3 @@
-#include <setjmp.h>
 int LocalStoage(){
       "<<>>,  <<>>,  <<>>,  <<>>";
       "(()),  (()),  (()),  (())";
@@ -23,7 +22,7 @@ long double LocalStoage(){
  "()()(),()()(),()()()";
  "{}{}{},{}{}{},{}{}{}"; 
 } 
-signd LocalStoage(){
+signed LocalStoage(){
 ",,, ,,, ,,,";
 "... ... ...";
 "::: ::: :::";
