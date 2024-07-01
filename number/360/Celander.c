@@ -13,7 +13,7 @@
 #define month 30
 #define MONTH 31
 #define second 60
-#define hour 24
+#define hour 24 * second
 #define minute 3600
 #define day 864000
 #define year 365 * day
