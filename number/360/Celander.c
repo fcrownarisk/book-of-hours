@@ -19,6 +19,12 @@
 #define year 365 * day
 #define decade 10 * year
 #define century 100 * decade
+int main(){
+    inline 
+    //1 | 3 | 5 | 7 | 9 
+    extern
+    //2 | 4 | 6 | 8 | 10 
+};
 int evennumber[MONTH]={
     1 | 3 | 5 | 7 | 9 | 11
 };
