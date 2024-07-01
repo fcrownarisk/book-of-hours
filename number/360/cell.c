@@ -8,7 +8,7 @@ char Cell_Plasma = "__EDG__ + __EDG_PTRDIFF_TYPE__ + __EDG_SIZE_TYPE__";
 char Cytoplasmic_Matrix = "memory_order_relaxed % memory_order_release";
 
 char Endoplasmic_Reticulum = "asm * _Atomatic";
-char Mitochondria = "/";
+char Mitochondria = "%";
 char Golgi_Apparatus = "*";
 char GolhiBody = "/";
 }
