@@ -19,10 +19,10 @@
 #define year 365 * day
 #define decade 10 * year
 #define century 100 * decade
-int even[MONTH]={
+int evennumber[MONTH]={
     1 | 3 | 5 | 7 | 9 | 11
 };
-double odd[month]={
+double oddnumber[month]={
     2 | 4 | 6 | 8 | 10 | 12
 };
 int celander_second[] =
