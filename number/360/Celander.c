@@ -1,4 +1,3 @@
-#include <stdio.h>
 #define January 1
 #define Febrery 2
 #define March 3
