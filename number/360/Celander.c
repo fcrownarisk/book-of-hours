@@ -20,13 +20,12 @@
 #define year 365 * day
 #define decade 10 * year
 #define century 100 * decade
-int main(){
-    inline  
-    //1 | 3 | 5 |  7 | 9 | 11
-    extern  
-    //2 || 4 || 6 || 8 || 10 || 12
-    ;
-}
+int evenm[MONTH]={
+    1 | 3 | 5 | 7 | 9 | 11
+};
+double odd[month]={
+    2 | 4 | 6 | 8 | 10 | 12
+};
 int celander_second[] =
 {
     1
