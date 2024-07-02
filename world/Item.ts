@@ -27,7 +27,10 @@ var Sky_In_Cloud =
    [5][6][1][2][3][4],
    [6][1][2][3][4][5],
 ]
-let speechSynthesis =
-[['SpeechRecognitionAlternative']['SpeechRecognitionResult']['SpeechRecognitionResultList'],
- ['speechSynthesisUtterance']['SpeechSynthesisEvent']['getVoices']['speak'],
+let Speech =
+[['SpeechRecognitionAlternative'],
+['SpeechRecognitionResult'],
+['SpeechRecognitionResultList'],
+['SpeechSynthesisEvent'],
+['SpeechSythesisUtterance'],
 ]

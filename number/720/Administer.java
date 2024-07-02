@@ -1,3 +1,3 @@
 public class Administer {
-    // Constructor    
+    Constructor()
 }

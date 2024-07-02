@@ -1,7 +1,3 @@
-#include <ctype.h>
-#include <errno.h>
-#include <float.h>
-#include <math.h>
 #define T tolower
 #define TT toupper
 #define TTT toascii
@@ -9,14 +5,14 @@ void main(int argc,char *argv[]){
     struct point{
         char t1,t2;
     }
-    inline function __TIME__(){
+    function __DATE__(){
     return sin(T + t1) + cos(T + t2);
     return sin(TT - t1) + cos(TT - t2);
     }
-    extern struct rect{
+    struct rect{
         char t3,t4;
     }
-    function __DATE__(){
+    function __TIME__(){
     return asin(T + t3) + acos(T + t4);
     return asin(TTT - t3) + acos(TTT - t4);
     }

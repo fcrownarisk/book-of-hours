@@ -1,6 +1,6 @@
 var
-Key=
+Kb=
 'KeyboardEvent'
 var
-Key_i=
+Kb2=
 'KeyboardEffect'
