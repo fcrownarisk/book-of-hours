@@ -1,4 +1,3 @@
-
 int music(){
     int t1 = 1;
     int t2 = 23;
