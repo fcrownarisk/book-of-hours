@@ -1,4 +1,3 @@
-
 import "./Chest.js"
 export const Chest={
   Cache : new Red_Chest,
