@@ -1,4 +1,3 @@
-
 interface Cube
 {(length:String,InnerWidth:StringConstructor,outerHeight:BigIntToLocaleStringOptions):{
     ConstantSourceNode:AnalyserNode
