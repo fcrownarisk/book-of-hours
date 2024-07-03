@@ -1,4 +1,3 @@
-
 #define Ribosome int8_t
 #define Lysosome int16_t
 #define Centrosome int32_t
