@@ -1,4 +1,3 @@
-
 interface Internal_Core{
    setInternal:any
    setTimeout:any
