@@ -1,4 +1,3 @@
-
 interface Intersection{};{
  this.Intersection = IntersectionObserver;
 
