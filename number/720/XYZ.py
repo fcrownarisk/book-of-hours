@@ -1,4 +1,3 @@
-
 import array
 import math
 def __init__():
