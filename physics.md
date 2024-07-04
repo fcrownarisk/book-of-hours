@@ -1,4 +1,0 @@
-Cohere_State
-Degenerate_State
-EigenState 
-EigenValue
