@@ -1,6 +1,9 @@
-let x = any;
-let y = any;
-let z = any;
+declare module x{}
+declare module y{}
+declare module z{}
+let a = any;
+let b = any;
+let c = any;
 function Capsule(Oval){
     x^2 / a*a + y^2 / b*b + z^2 / c*c == 1
 ;}
