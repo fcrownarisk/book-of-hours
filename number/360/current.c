@@ -1,4 +1,4 @@
-void Direct_Cureent(DC){
+void Direct_Current(DC){
      int Voltage = 220;
      int Current = 1;
 }
