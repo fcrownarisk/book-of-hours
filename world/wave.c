@@ -38,7 +38,7 @@ double physics(){
    static const velocity = v1 + v2 + v3 + v4;
 }
 void physics(){
-     //newton second law
+   //newton second law
    const Force = 'mass * velocity';
    //momentum Eternity
    const Force = m1 * v1 + m2 * v2 == m3 * v3 + m4 * v4;
