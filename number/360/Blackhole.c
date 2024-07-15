@@ -8,5 +8,5 @@ void S(){
    char S = "entropy"
 ;}
 void T(){
-  char T = "Temperature"
+   char T = "Temperature"
 ;}
