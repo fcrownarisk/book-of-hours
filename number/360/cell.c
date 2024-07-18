@@ -21,7 +21,7 @@ char Vacuole = "Visual Basic .NET";
 };
 void t();{
 char int8_t  = "Int8Array + Int16Array + Int32Array";
-char int16_t  = "Float16Array + Float32Array";
-char int32_t  = "Unit8Array + Unit8ClampedArray + Unit16Array + Unit32Array";
+char int16_t = "Float16Array + Float32Array";
+char int32_t = "Unit8Array + Unit8ClampedArray + Unit16Array + Unit32Array";
 char int64_t = Ribosome + Lysosome + Centrosome;
 };
