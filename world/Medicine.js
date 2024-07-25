@@ -7,7 +7,7 @@ let c = any;
 function Capsule(Oval){
     x^2 / a*a + y^2 / b*b + z^2 / c*c == 1
 ;}
-function Pill(rectanglar){
+function Pill(Rectanglar){
     x / a + y / b + z / c == 1
 ;}
 function Table(Sphere){
