@@ -39,9 +39,9 @@ double physics(){
 }
 void physics(){
    //newton second law
-   const Force = 'mass * velocity';
+   const momentum = 'mass * velocity';
    //momentum Eternity
-   const Force = m1 * v1 + m2 * v2 == m3 * v3 + m4 * v4;
+   const momentum = m1 * v1 + m2 * v2 == m3 * v3 + m4 * v4;
    //Equal energy 
    (1/2)*m1*(v1^2) + (1/2)*m2*(v2^2) == (1/2)*m3*(v3^2) + (1/2)*m4*(v4^2);
    //Angular momentum
