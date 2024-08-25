@@ -39,7 +39,7 @@ double physics(){
 }
 void physics(){
    //newton second law
-   const momentum = 'mass * velocity';
+   const momentum = '(1/2) * mass * velocity * velocity';
    //momentum Eternity
    const momentum = m1 * v1 + m2 * v2 == m3 * v3 + m4 * v4;
    //Equal energy 
