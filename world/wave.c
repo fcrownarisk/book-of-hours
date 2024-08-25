@@ -57,6 +57,6 @@ void gradle(m){
    const gradle;
    for(m1<m2;m1<gradle<m2;m1 && m2)
    for(m3<m4;m3<gradle<m4;m3 && m4)
-   for(m7>m6;m6>gradle>m7;m6 || m7)
-   for(m9>m8;m8>gradle>m9;m8 || m9)
+   for(m7>m6;m7>gradle>m6;m6 || m7)
+   for(m9>m8;m9>gradle>m8;m8 || m9)
 ;}
