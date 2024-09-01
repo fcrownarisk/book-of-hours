@@ -1,7 +1,7 @@
 
 import "color.css"
 caches = new Promise((resolve, reject) => {
-const black={black}
+const black={WebGL}
 const grey={WebGLQuery}
 const white={WebGLBuffer}
 var Blue_Chest={
