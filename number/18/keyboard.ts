@@ -8,7 +8,7 @@ const Dvorak_Keyboard =
       'p | y | f | g | c | r | l'
   'a | o | e | u | i | d | h | t | n | s'
       'q | j | k | x | b | m | w | v | z'
-const Colemak_Keyboard =
+const Colemac_Keyboard =
     'q | w | f | p | g | j | k | u | y' 
 'a | r | s | t | d | h | n | e | i | o'
     'z | x | c | v | b | k | m'
