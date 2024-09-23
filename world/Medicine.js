@@ -12,7 +12,7 @@ function Pill(Rectanglar){
 ;}
 function Table(Sphere){
     x^a + y^b + z^c == 1
-}
+;}
 export const Table = x.y.z;
 export const Pill = z.y.x;
 export const Capsule = x.y.z.y.x;
