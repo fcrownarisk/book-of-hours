@@ -1,41 +1,41 @@
 
-short localstoage(){
+short localstorage(){
     "<><><><>";
     "()()()()";
     "[][][][]";
     "{}{}{}{}";
 }
-int LocalStoage(){
+int LocalStorage(){
       "<<>>,  <<>>,  <<>>,  <<>>";
       "(()),  (()),  (()),  (())";
       "[[]],  [[]],  [[]],  [[]]";
       "{{}},  {{}},  {{}},  {{}}";     
 }
-float LocalStoage(){
+float LocalStorage(){
     "(<>) ,(<>) ,(<>) ,(<>)";
     "[()] ,[()] ,[()] ,[()]";
     "{[]} ,{[]} ,{[]} ,{[]}";
     "<{}> ,<{}> ,<{}> ,<{}>"; 
 }
-double LocalStoage(){
+double LocalStorage(){
 "<><> ,<><> ,<><> ,<><>";
 "()() ,()() ,()() ,()()";
 "[][] ,[][] ,[][] ,[][]";
 "{}{} ,{}{} ,{}{} ,{}{}";
 }
-long double LocalStoage(){
+long double LocalStorage(){
  "<><><>,<><><>,<><><>";
  "()()(),()()(),()()()";
  "[][][],[][][],[][][]";
  "{}{}{},{}{}{},{}{}{}"; 
 } 
-signed LocalStoage(){
+signed LocalStorage(){
 ",,, ,,, ,,,";
 "... ... ...";
 "::: ::: :::";
 ";;; ;;; ;;;";
 }
-unsigned LocalStoage(){
+unsigned LocalStorage(){
 "??? ??? ???";
 "!!! !!! !!!";
 "@@@ @@@ @@@";
