@@ -1,4 +1,3 @@
-
 //earth
 declare module X{}
 declare module Y{}
