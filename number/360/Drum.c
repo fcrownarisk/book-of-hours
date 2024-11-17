@@ -6,6 +6,6 @@ char Mid_Drum =
 "/--\"
 "|  |"
 "\__/"
-char Small_Drum -
+char Small_Drum =
 "/-\"
 "\_/"
